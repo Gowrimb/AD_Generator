@@ -37,7 +37,7 @@ h1 {
 
 # ======= CONFIGURATION - REPLACE THESE VALUES =======
 # Add your Gemini API key here
-GEMINI_API_KEY = "AIzaSyARZB0TIMR9Y7PyU_74IdGft5XpvSvv1JY"
+GEMINI_API_KEY = "api-key"
 # Add your Stability API key here
 STABILITY_API_KEY = "api-key"
 # Add your dataset path here
