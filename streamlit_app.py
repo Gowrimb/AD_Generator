@@ -39,7 +39,7 @@ h1 {
 # Add your Gemini API key here
 GEMINI_API_KEY = "AIzaSyARZB0TIMR9Y7PyU_74IdGft5XpvSvv1JY"
 # Add your Stability API key here
-STABILITY_API_KEY = "sk-QZC61Heb3oIYhPmaQoCwFIXkl9MItBaGvAzso3fKRt3An1ui"
+STABILITY_API_KEY = "api-key"
 # Add your dataset path here
 DATASET_PATH = "C:/Users/Dr. Manjunath/OneDrive/Desktop/engg/techxcelerate/train-00000-of-00002-6e587552aa3c8ac8.parquet"
 # ===================================================
